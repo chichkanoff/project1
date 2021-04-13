@@ -1,3 +1,3 @@
 let x = 9999
-alert("Say anythin!" + x)
-fetch("vc.com")
+let y = 1
+alert("Say anythin!" + x + y)
